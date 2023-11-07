@@ -1,0 +1,7 @@
+frame = "none"
+multigrid = "true"
+
+# Run in term to set ray/spotlight/alfred gui
+# launchctl setenv NEOVIDE_FRAMELESS true
+# launchctl setenv NEOVIDE_FRAME none
+# launchctl setenv NEOVIDE_MULTIGRID true
